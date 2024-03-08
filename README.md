@@ -351,6 +351,12 @@ or for a more complex `Item` model:
 item: Item
 ```
 
+or for a more complex `Product` model:
+
+```Python
+product: Product
+```
+
 ...and with that single declaration you get:
 
 * Editor support, including:
@@ -474,3 +480,4 @@ You can install all of these with `pip install "fastapi[all]"`.
 ## License
 
 This project is licensed under the terms of the MIT license.
+
